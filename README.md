@@ -6,5 +6,4 @@ Switch to `gh-pages` branch for the html code.
 
 ## Translations
 
-Chinese version provided by dotnil.
-
+Chinese version provided by dotnil, available at http://cyj.me/git-guide
